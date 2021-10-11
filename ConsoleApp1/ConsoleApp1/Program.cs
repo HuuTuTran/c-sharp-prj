@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello world from the 1st time");
             Console.WriteLine("Hello world from user1");
+            Console.WriteLine("ok received");
         }
     }
 }
